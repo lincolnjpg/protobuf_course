@@ -1,0 +1,360 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"clas",
+				"class_alias()"
+			],
+			[
+				"if",
+				"ifelse\tif … else …"
+			],
+			[
+				"ph",
+				"php\t<?php … ?>"
+			],
+			[
+				"Ty",
+				"TypeOf"
+			],
+			[
+				"json",
+				"jsonString"
+			],
+			[
+				"jso",
+				"jsonString"
+			],
+			[
+				"pro",
+				"protojson"
+			],
+			[
+				"read",
+				"readFromFile"
+			],
+			[
+				"write",
+				"writeToFile"
+			],
+			[
+				"Re",
+				"ReadFile"
+			],
+			[
+				"Exam",
+				"MapExample2{}"
+			],
+			[
+				"Map",
+				"MapExample2"
+			],
+			[
+				"map",
+				"MapExample"
+			],
+			[
+				"On",
+				"oneOf"
+			],
+			[
+				"E",
+				"EyeColor_EYE_COLOR_BROWN"
+			],
+			[
+				"pb",
+				"pb.EyeColor_EYE_COLOR_BROWN"
+			],
+			[
+				"EYE",
+				"EYE_COLOR_BLUE"
+			],
+			[
+				"Me",
+				"MessageOne"
+			],
+			[
+				"Week",
+				"WeekDayNames"
+			],
+			[
+				"h",
+				"h4"
+			],
+			[
+				"P",
+				"Println"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"termi",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"terminus",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"temrinus",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"open",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"open ",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				":W",
+				":w - Save"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/lincolnjpg/Desktop/teste.php",
+		"/home/lincolnjpg/Workspace/proto/udemy/go/main.go",
+		"/home/lincolnjpg/Workspace/proto/udemy/go/proto/simple.proto",
+		"/home/lincolnjpg/Workspace/proto/udemy/go/proto/simple.pb.go",
+		"/home/lincolnjpg/Workspace/proto/udemy/go/json.go",
+		"/home/lincolnjpg/Workspace/proto/udemy/go/udemy.sublime-project",
+		"/home/lincolnjpg/Workspace/proto/udemy/go/file.go",
+		"/home/lincolnjpg/Workspace/proto/udemy/go/proto/maps.proto",
+		"/home/lincolnjpg/Workspace/proto/udemy/go/proto/maps.pb.go",
+		"/home/lincolnjpg/Workspace/proto/udemy/go/simple.bin",
+		"/home/lincolnjpg/Workspace/proto/udemy/go/proto/file.go",
+		"/home/lincolnjpg/Workspace/proto/udemy/go/proto/complex.proto",
+		"/home/lincolnjpg/Workspace/proto/udemy/go/proto/complex.pb.go",
+		"/home/lincolnjpg/Workspace/proto/udemy/go/proto/oneofs.pb.go",
+		"/home/lincolnjpg/Workspace/proto/udemy/go/proto/oneofs.proto",
+		"/home/lincolnjpg/Workspace/proto/udemy/go/proto/enumerations.pb.go",
+		"/home/lincolnjpg/Workspace/proto/udemy/go/proto/enumerations.proto",
+		"/home/lincolnjpg/Workspace/proto/udemy/go/Makefile",
+		"/home/lincolnjpg/Workspace/proto/udemy/go/proto/dummy.pb.go",
+		"/home/lincolnjpg/Workspace/proto/udemy/go/proto/dummy.proto",
+		"/home/lincolnjpg/Workspace/proto/udemy/basics_2/same_level_message.proto",
+		"/home/lincolnjpg/Workspace/proto/udemy/basics_2/nested_type.proto",
+		"/home/lincolnjpg/Workspace/proto/udemy/basics_2/imports.proto",
+		"/home/lincolnjpg/Workspace/proto/udemy/basics_2/package.proto",
+		"/home/lincolnjpg/Workspace/proto/udemy/basics_2/use_package.proto",
+		"/home/lincolnjpg/Workspace/proto/udemy/basics_1/python_code/account_pb2.py",
+		"/home/lincolnjpg/Workspace/proto/udemy/go/go.mod",
+		"/home/lincolnjpg/Workspace/proto/udemy/basics/account.proto",
+		"/home/lincolnjpg/Workspace/proto/udemy/basics/date.proto",
+		"/home/lincolnjpg/Workspace/proto/udemy/basics/lati_long.proto",
+		"/home/lincolnjpg/Workspace/proto/udemy/basics/money.proto",
+		"/home/lincolnjpg/Workspace/proto/udemy/basics/day_of_week.proto",
+		"/home/lincolnjpg/Workspace/proto/udemy/basics/person.proto",
+		"/home/lincolnjpg/Workspace/proto/udemy/first_message.proto",
+		"/home/lincolnjpg/Workspace/go/tmp/main.go",
+		"/home/lincolnjpg/Desktop/teste.html",
+		"/home/lincolnjpg/Workspace/go/tmp/tmp.sublime-project",
+		"/home/lincolnjpg/Workspace/go/tmp/go.mod"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"protojson",
+			"Simple",
+			"jsonString",
+			"escrever",
+			"WriteFile",
+			"perm",
+			"data",
+			"Three",
+			"WEEK_DAY_",
+			"32",
+			"float",
+			"ui"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.Debugger":
+	{
+		"height": 282.0
+	},
+	"output.Debugger Console":
+	{
+		"height": 282.0
+	},
+	"output.LSP Log Panel":
+	{
+		"height": 0.0
+	},
+	"output.Terminus":
+	{
+		"height": 132.0
+	},
+	"output.diagnostics":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "udemy.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 290.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

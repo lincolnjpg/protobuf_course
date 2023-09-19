@@ -1,0 +1,18 @@
+{
+	/*"folders":
+	[
+		{
+			"path": "/home/lincolnjpg/Workspace/proto/udemy/go",
+		}
+	],*/
+	"debugger_configurations":
+	[
+		{
+			"name": "Launch Package",
+			"type": "go",
+			"request": "launch",
+			"mode": "debug",
+			"program": "${workspaceFolder}",
+		},
+	],
+}

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+enum WeekDayNames {
+	WEEK_DAY_UNSPECIFIED = 0;
+	SUNDAY = 1;
+	MONDAY = 2;
+	TUESDAY = 3;
+	WEDNESDAY = 4;
+	THURSDAY = 5;
+	FRIDAY = 6;
+	SATURDAY = 7;
+}
